@@ -43,7 +43,7 @@
 	- **Latte**: https://raw.githubusercontent.com/catppuccin/vendetta/main/latte.json
 	- **Frappe**: https://raw.githubusercontent.com/catppuccin/vendetta/main/frappe.json
 	- **Macchiato**: https://raw.githubusercontent.com/catppuccin/vendetta/main/macchiato.json
-	- **Mocha**:  https://github.com/moonfight1/vendetta-catppuccin-peach/blob/main/mocha.json
+	- **Mocha**:  https://raw.githubusercontent.com/moonfight1/vendetta-catppuccin-peach/main/mocha.json
 2. Head to `You Tab (aka Settings)` > `Vendetta` > `Themes`
 3. Paste the copied link and press `Install`
 4. Select your theme and you're ready to go!
